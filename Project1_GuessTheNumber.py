@@ -1,5 +1,6 @@
 import random
 
+'''Python code to guess numbers'''
 games = ''
 
 while games == '':
